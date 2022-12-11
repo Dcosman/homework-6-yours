@@ -53,3 +53,14 @@ C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Yo
 C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Yours_Broken\BlackierLab4\obj\Debug\BlackierLab4.csproj.CoreCompileInputs.cache
 C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Yours_Broken\BlackierLab4\obj\Debug\BlackierLab4.exe
 C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Blackier_A4_Yours_Broken\BlackierLab4\obj\Debug\BlackierLab4.pdb
+C:\Users\Dallas\Documents\GitHub\homework-6-yours\Blackier_A4_Yours\BlackierLab4\bin\Debug\BlackierLab4.exe.config
+C:\Users\Dallas\Documents\GitHub\homework-6-yours\Blackier_A4_Yours\BlackierLab4\bin\Debug\BlackierLab4.exe
+C:\Users\Dallas\Documents\GitHub\homework-6-yours\Blackier_A4_Yours\BlackierLab4\bin\Debug\BlackierLab4.pdb
+C:\Users\Dallas\Documents\GitHub\homework-6-yours\Blackier_A4_Yours\BlackierLab4\obj\Debug\BlackierLab4.csproj.AssemblyReference.cache
+C:\Users\Dallas\Documents\GitHub\homework-6-yours\Blackier_A4_Yours\BlackierLab4\obj\Debug\BlackierLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dallas\Documents\GitHub\homework-6-yours\Blackier_A4_Yours\BlackierLab4\obj\Debug\BlackierLab4.Form1.resources
+C:\Users\Dallas\Documents\GitHub\homework-6-yours\Blackier_A4_Yours\BlackierLab4\obj\Debug\BlackierLab4.Properties.Resources.resources
+C:\Users\Dallas\Documents\GitHub\homework-6-yours\Blackier_A4_Yours\BlackierLab4\obj\Debug\BlackierLab4.csproj.GenerateResource.cache
+C:\Users\Dallas\Documents\GitHub\homework-6-yours\Blackier_A4_Yours\BlackierLab4\obj\Debug\BlackierLab4.csproj.CoreCompileInputs.cache
+C:\Users\Dallas\Documents\GitHub\homework-6-yours\Blackier_A4_Yours\BlackierLab4\obj\Debug\BlackierLab4.exe
+C:\Users\Dallas\Documents\GitHub\homework-6-yours\Blackier_A4_Yours\BlackierLab4\obj\Debug\BlackierLab4.pdb
