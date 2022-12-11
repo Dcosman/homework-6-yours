@@ -93,7 +93,7 @@ namespace BlackierLab4
             // Constants used to restrict the number of people
             const int MINPEOPLE = 1, MAXPEOPLE = 10;
             // Constants used for prices
-            const double MEX = 2300.79, OTHER = 2150.5, DISCOUNT = 0.1;
+            const double MEX = 2300.79, OTHER = 2150.5, DISCOUNT = 0.9;
             // Variable set to the amount entered by the user
             int people;
             // Variable set to the total price
@@ -115,7 +115,7 @@ namespace BlackierLab4
                     //Calcs and sets price for Florida and Cuba
                     if (radCuba.Checked || radFlorida.Checked)
                     {
-                        price = OTHER + people;
+                        price = OTHER * people;
                     }
                     //Calcs and sets price for Mexico
                     else
